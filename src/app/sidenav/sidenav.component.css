@@ -1,0 +1,31 @@
+
+.logo{
+    text-align: center;
+    padding: 1.6rem;
+    margin: 0 auto 40px;
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    background: url(../../assets/bnj.jpg);
+}
+li {
+    padding: 20px 45px;
+    font: bold 1.35rem 'Roboto Condensed';
+    list-style-type: none;
+  }
+.mat-icon{
+    vertical-align: center;
+    margin-right: 1rem;
+}
+.mat-divider{
+    border-top-width: 2px;
+    border-color: white;
+}
+.mat-list-item{
+    color: #e8ecf1 !important;
+    font-size: 0.8rem;
+    height: 44px !important;
+    margin-bottom: 4px;
+    border-radius: 5px;
+    margin: 0 8px;
+}
